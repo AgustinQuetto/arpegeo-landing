@@ -2101,6 +2101,30 @@ body {
     display: block;
   }
 }
+.cid-rbLrb7K4fw {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rbLrb7K4fw .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rbLrb7K4fw .section-text {
+  padding: 2rem 0;
+  text-align: center;
+}
+.cid-rbLrb7K4fw .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rbLrb7K4fw .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rbdHMMvo3L {
   padding-top: 60px;
   padding-bottom: 30px;
